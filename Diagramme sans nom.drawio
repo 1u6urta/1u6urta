@@ -308,8 +308,11 @@
         <mxCell id="tgyspkfBarSyZiZ935ce-130" value="- dateFinAnnonce : Date" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="l52ELVpmuBvx_yycrdZl-60">
           <mxGeometry y="130" width="240" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="tgyspkfBarSyZiZ935ce-131" value="- pourcentageReduction : Float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="l52ELVpmuBvx_yycrdZl-60">
+          <mxGeometry y="156" width="240" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="l52ELVpmuBvx_yycrdZl-61" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="l52ELVpmuBvx_yycrdZl-60" vertex="1">
-          <mxGeometry y="156" width="240" height="72" as="geometry" />
+          <mxGeometry y="182" width="240" height="14" as="geometry" />
         </mxCell>
         <mxCell id="l52ELVpmuBvx_yycrdZl-62" value="Livraison" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="230" width="240" height="240" as="geometry">
