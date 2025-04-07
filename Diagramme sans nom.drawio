@@ -858,6 +858,21 @@
             <mxPoint x="-19" y="-229" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="W42loaGBSouHeKlRO4jQ-37" value="1..1" style="resizable=0;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150" y="-40.00000000000023" as="geometry">
+            <mxPoint x="-6" y="-199" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W42loaGBSouHeKlRO4jQ-38" value="possede" style="text;html=1;resizable=0;points=[];;align=center;verticalAlign=middle;labelBackgroundColor=none;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1390" y="40" as="geometry">
+            <mxPoint x="-4" y="-92" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W42loaGBSouHeKlRO4jQ-39" value="possede" style="text;html=1;resizable=0;points=[];;align=center;verticalAlign=middle;labelBackgroundColor=none;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1380" y="-160" as="geometry">
+            <mxPoint x="-4" y="-92" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
