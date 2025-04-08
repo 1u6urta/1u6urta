@@ -947,7 +947,7 @@
             <mxPoint x="-195" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zYOC7ODXqotDDjW0_ydv-7" value="1..َ1" style="resizable=0;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" connectable="0" vertex="1">
+        <mxCell id="zYOC7ODXqotDDjW0_ydv-7" value="1..َ*" style="resizable=0;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" connectable="0" vertex="1">
           <mxGeometry x="1120" y="509.9960000000001" as="geometry">
             <mxPoint x="-75" y="155" as="offset" />
           </mxGeometry>
