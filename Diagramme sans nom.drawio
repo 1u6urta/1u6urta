@@ -360,7 +360,7 @@
             <mxRectangle x="656.85" y="120" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l52ELVpmuBvx_yycrdZl-49" value="- idPaiement : Int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="l52ELVpmuBvx_yycrdZl-28" vertex="1">
+        <mxCell id="l52ELVpmuBvx_yycrdZl-49" value="- idPaiement : String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="l52ELVpmuBvx_yycrdZl-28" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="l52ELVpmuBvx_yycrdZl-50" value="- methodePaiement : String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="l52ELVpmuBvx_yycrdZl-28" vertex="1">
