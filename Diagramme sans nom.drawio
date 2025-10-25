@@ -460,7 +460,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tgyspkfBarSyZiZ935ce-51" value="0..*" style="resizable=0;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" connectable="0" vertex="1">
-          <mxGeometry x="1430" y="629.9960000000001" as="geometry" />
+          <mxGeometry x="1424" y="629.9960000000001" as="geometry" />
         </mxCell>
         <mxCell id="tgyspkfBarSyZiZ935ce-52" value="contient" style="text;html=1;resizable=0;points=[];;align=center;verticalAlign=middle;labelBackgroundColor=none;rounded=0;shadow=0;strokeWidth=1;fontSize=20;rotation=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="1409.996" y="620" as="geometry">
