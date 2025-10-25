@@ -402,7 +402,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tgyspkfBarSyZiZ935ce-12" value="1..*" style="resizable=0;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" connectable="0" vertex="1">
-          <mxGeometry x="420" y="20" as="geometry" />
+          <mxGeometry x="427" y="17" as="geometry" />
         </mxCell>
         <mxCell id="tgyspkfBarSyZiZ935ce-17" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
